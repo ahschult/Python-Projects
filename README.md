@@ -8,6 +8,16 @@
         file2_path: Path to second Excel file
         output_path: Path for output Excel file
 
+ **Combineall.py**
+ ======================================================
+    Combine two Excel files containing swim rankings and sort by time (column J).
+    Supports both .xls and .xlsx formats.
+    
+    Args:
+        file1_path: Path to first Excel file
+        file2_path: Path to second Excel file
+        output_path: Path for output Excel file
+
 
 **Swimming Event Percentile Calculator - Separate Reports**
 ========================================================
