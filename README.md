@@ -26,6 +26,8 @@ and creates a SEPARATE percentile report for each input file.
 
 For swimming, lower times are better, so:
 - 80th percentile = Top 20% (fastest swimmers)
+- 83rd percentile = Top 17%
+- 85th percentile = Top 15%
 - 90th percentile = Top 10% (fastest swimmers)
 
 Requirements:
